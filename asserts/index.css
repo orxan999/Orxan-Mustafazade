@@ -1,0 +1,20 @@
+.main{
+    height: 50px;
+    width: 30px;
+    color: red;
+}
+.second{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+}
+.third{
+    text-align: left;
+    background-color: yellow;
+    font-size: 15px;
+}
+.fourth{
+    text-align: right;
+    color: orangered;
+    font-size: 35px;
+}
